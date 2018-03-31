@@ -28,14 +28,14 @@ function ternaryCheckCity(city){
 }
 
 function switchOnCharmFromTip(tip){
-  switch (true){
-  case (distance < 400):
+  switch (tip){
+  case 'generous':
     return 'This one is on me!'
     break;
-  case (distance > 2500):
+  case 'not as generous':
     return 'No can do.'
     break;
-  case (distance > 2000):
+  case ':
     return 'I will gladly take your thirty bucks.';
     break;
   default:
