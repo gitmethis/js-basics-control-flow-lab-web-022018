@@ -2,5 +2,5 @@
 
 
 function scuberGreetingForFeet(distance){
-  
+  switch 
 }
