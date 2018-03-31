@@ -35,7 +35,7 @@ function switchOnCharmFromTip(tip){
   case 'not as generous':
     return 'No can do.'
     break;
-  case ':
+  case 'thanks for everything':
     return 'I will gladly take your thirty bucks.';
     break;
   default:
