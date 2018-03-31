@@ -16,3 +16,7 @@ function scuberGreetingForFeet(distance){
       return ''
   }
 }
+
+function ternaryCheckCity(){
+  
+}
