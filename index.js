@@ -3,6 +3,6 @@
 
 function scuberGreetingForFeet(distance){
   switch (distance){
-    
+    case 
   }
 }
