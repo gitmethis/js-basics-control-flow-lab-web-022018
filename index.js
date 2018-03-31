@@ -11,6 +11,7 @@ function scuberGreetingForFeet(distance){
       break;
     case (distance > 2500):
       return 'No can do.'
+      break;
     default:
       return ''
   }
